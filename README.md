@@ -337,7 +337,9 @@
     <li>
       <p><a href="https://blogs.microsoft.com/ai/">Microsoft AI Blog</a></p>
     </li>
+</ul>
 <li>Additional Resources</li>
+<ul>
 <li>
   <p><a href="https://lilianweng.github.io/">Lil'Log</a></p>
 </li>
